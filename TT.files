@@ -1,0 +1,10 @@
+FileEncryptor.pro
+aes_encryptor.cpp
+aes_encryptor.h
+encryptor.h
+main.cpp
+mainwindow.cpp
+mainwindow.h
+moc_mainwindow.cpp
+moc_predefs.h
+ui_mainwindow.h
